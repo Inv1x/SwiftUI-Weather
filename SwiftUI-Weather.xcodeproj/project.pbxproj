@@ -15,6 +15,7 @@
 		01804DA42BEFF28B00CB26EC /* SwiftUI_WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01804DA32BEFF28B00CB26EC /* SwiftUI_WeatherUITests.swift */; };
 		01804DA62BEFF28B00CB26EC /* SwiftUI_WeatherUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01804DA52BEFF28B00CB26EC /* SwiftUI_WeatherUITestsLaunchTests.swift */; };
 		018B81A32BF0020800C7E1BC /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 018B81A22BF0020800C7E1BC /* WeatherButton.swift */; };
+		018B81A52BF12FE800C7E1BC /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 018B81A42BF12FE800C7E1BC /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		01804DA32BEFF28B00CB26EC /* SwiftUI_WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_WeatherUITests.swift; sourceTree = "<group>"; };
 		01804DA52BEFF28B00CB26EC /* SwiftUI_WeatherUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_WeatherUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		018B81A22BF0020800C7E1BC /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
+		018B81A42BF12FE800C7E1BC /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		01804D7C2BEFF28A00CB26EC = {
 			isa = PBXGroup;
 			children = (
+				018B81A42BF12FE800C7E1BC /* .gitignore */,
 				01804D872BEFF28A00CB26EC /* SwiftUI-Weather */,
 				01804D982BEFF28B00CB26EC /* SwiftUI-WeatherTests */,
 				01804DA22BEFF28B00CB26EC /* SwiftUI-WeatherUITests */,
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				01804D902BEFF28B00CB26EC /* Preview Assets.xcassets in Resources */,
+				018B81A52BF12FE800C7E1BC /* .gitignore in Resources */,
 				01804D8D2BEFF28B00CB26EC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
